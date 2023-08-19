@@ -21,8 +21,8 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li <?php if ($_SERVER['REQUEST_URI'] == '/picnic-place/index.php') echo 'class="active"'; ?>><a href="index.php">Home <span
-                                        class="sr-only">(current)</span></a></li>
+                        <li <?php if (strpos($_SERVER['REQUEST_URI'], '/picnic-place/') !== false && $_SERVER['REQUEST_URI'] != '/picnic-place/animals.php' && $_SERVER['REQUEST_URI'] != '/picnic-place/about.php') echo 'class="active"'; ?>><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
+
                             <li <?php if ($_SERVER['REQUEST_URI'] == '/picnic-place/about.php') echo 'class="active"'; ?>><a href="about.php">About</a></li>
                             <li <?php if ($_SERVER['REQUEST_URI'] == '/picnic-place/contact.php') echo 'class="active"'; ?>><a href="contact.php">Contact</a></li>
                             <li <?php if (strpos($_SERVER['REQUEST_URI'], '/picnic-place/animals.php') !== false || strpos($_SERVER['REQUEST_URI'], '/picnic-place/animal-detail.php') !== false) echo 'class="active"'; ?>><a href="animals.php">Animals</a></li>

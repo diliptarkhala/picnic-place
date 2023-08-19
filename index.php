@@ -21,16 +21,16 @@ include('includes/dbconnection.php');
 				<div class="container">
 					<div class="head-banner">
 						<h3>Visit to a Zoo</h3>
-						<p> A visit to a zoo offers us an opportunity to see the wild animals.Zoo is a place where we can see different animals and birds at one place. It has great attraction particularly for the children. A visit to a zoo gives us both information and entertainment. We come to learn about the rare species.</p>
+						<p style="font-size:16px"> A visit to a zoo is like embarking on a captivating journey into the wild, where you can witness an incredible assortment of animals and birds in one remarkable location. This experience holds a special allure, especially for children, as it not only entertains but also educates. It provides valuable insights into the world of rare and exotic species, making it an unforgettable adventure that sparks curiosity and wonder. So, step into the realm of nature's wonders and explore the fascinating tapestry of life that zoos have to offer.</p>
 					</div>
 					<div class="banner-grids">
 						<div class="col-md-6 banner-grid">
-							<h4>Vestibulum sagittis</h4>
-							<p>Donec dui velit, hendrerit id pharetra nec, posuere porta nisl. Donec magna nulla, commodo in ultrices faucibus lacus aliquet.</p>
+							<h4>Discover the Excitement</h4>
+							<p>Explore our calendar of events to stay updated on the latest happenings at The Picnic Place. From captivating animal exhibitions to fun-filled family activities, our upcoming events promise unforgettable experiences for all ages. Join us in celebrating the wonders of nature and wildlife.</p>
 						</div>
 						<div class="col-md-6 banner-grid">
-						<h4>Itaque Earum Rerum</h4>
-							<p>Donec dui velit, hendrerit id pharetra nec, posuere porta nisl. Donec magna nulla, commodo in ultrices faucibus lacus aliquet.</p>
+						<h4>Become a Conservation Champion</h4>
+							<p>At The Picnic Place, we believe in the power of conservation. Learn how you can make a difference and become a part of our mission to protect and preserve endangered species and their habitats. From volunteering opportunities to educational programs, there are many ways to get involved and contribute to a sustainable future for our planet. Join us in taking action for wildlife conservation.</p>
 						</div>
 						<div class="clearfix"></div>
 					</div>

@@ -161,8 +161,8 @@ CREATE TABLE `tblticindian` (
 --
 
 INSERT INTO `tblticindian` (`ID`, `TicketID`, `visitorName`, `NoAdult`, `NoChildren`, `AdultUnitprice`, `ChildUnitprice`, `PostingDate`) VALUES
-(2, '911666414', 'Atul singh', 2, 0, '350', '80', '2022-05-25 01:39:41'),
-(3, '562063870', 'Anuj kumar', 4, 1, '300', '80', '2022-05-25 16:43:11');
+(2, '7096587150', 'Dilip Tarkhala', 2, 0, '350', '80', '2022-05-25 01:39:41'),
+(3, '562063870', 'Karan Odedara', 4, 1, '300', '80', '2022-05-25 16:43:11');
 
 -- --------------------------------------------------------
 

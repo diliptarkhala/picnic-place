@@ -40,7 +40,7 @@ include('includes/dbconnection.php');
 							<div class="col-md-12 advantage-grid">
 								<div class="company_ad">
 							<h3>Contact Info</h3>
-							 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit velit justo.</p>
+							 <p>Enjoy the services provided by us. Feel free to contact us for any kind of queries.</p>
 			      			<address>
 	 							 <p>Email : <?php  echo $row['Email'];?></p>
 								 <p>Phone : <?php  echo $row['MobileNumber'];?></p>
